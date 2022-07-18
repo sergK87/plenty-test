@@ -1,0 +1,8 @@
+{
+      "name":"Jumingo",
+      "description":"My first plugin",
+      "namespace":"Jumingo",
+      "author":"plentysystems AG",
+      "type":"template",
+      "serviceProvider":"Jumingo\\Providers\\HelloWorldServiceProvider"
+}
